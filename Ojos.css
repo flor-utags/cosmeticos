@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+body{
+background-color: antiquewhite;
+}
+
+.titulo{
+    font-family: 'Architects Daughter', cursive;
+    text-align: center;
+    color: rgb(209, 72, 152);
+}
+.container{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.row{
+    margin-right: 30%;
+}
+.col-sm-4{
+    color: rgb(9, 9, 88);
+    margin-right: 5%;
+}
+.compra{
+    text-align: center;
+    margin-left: 40%;
+    color: rgb(15, 15, 15);
+    background-color: rgb(190, 128, 128);
+}

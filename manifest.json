@@ -1,0 +1,27 @@
+{
+    "short_name": "cosmeticos",
+    "name": "cosmeticos",
+    "icons": [
+        {
+            "src": "images/iconos/LOGO.jpg",
+            "sizes": "196x196",
+            "type": "image/jpg"
+        },
+        {
+            "src": "images/iconos/LOGO@2X.jpg",
+            "sizes": "196x196",
+            "type": "image/jpg"
+        },
+        {
+            "src": "images/iconos/LOGO3x.jpg",
+            "sizes": "196x196",
+            "type": "image/jpg"
+        }
+    ],
+    "start_url": "index.html",
+    "background_color": "#f9d627",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#f9d627",
+    "description": "Weather forecast information"
+}
